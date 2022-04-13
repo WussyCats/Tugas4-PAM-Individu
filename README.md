@@ -20,7 +20,7 @@ Library yang digunakan pada aplikasi ini:
 2. Expo Font.
 3. Expo Status Bar.
 4. Expo Update.
-5. Expo Chech Box.
+5. Expo Check Box.
 
 # Cara Instalasi
 
